@@ -1,3 +1,3 @@
 prime (num)
-
+num.
 end
