@@ -1,3 +1,3 @@
-prime (num)
+prime?(num)
 num.prime?
 end
