@@ -1,3 +1,3 @@
-prime?(num)
-num.prime? {|i| i}
+def prime?(num)
+  sieve(num).include?(num)
 end
