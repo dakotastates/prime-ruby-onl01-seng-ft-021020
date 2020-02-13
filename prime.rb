@@ -1,3 +1,3 @@
 prime?(num)
-num.prime?
+num.prime? {|i| i}
 end
